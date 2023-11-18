@@ -66,9 +66,3 @@ python visualize.py
 
 
 
-## TODO 
-
-- [ ] Refactor the codes of AU detection and face recognition.
-
-
-
