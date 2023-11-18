@@ -202,6 +202,5 @@ def accuracy(output,target,topk=(1,)):
 # if __name__ == '__main__':
 #     yaml_path = './configs/init.yaml'
 #     config = read_config(yaml_path)
-#
 #     model = create_dataset(config)
 #     debug = 0
