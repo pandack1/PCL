@@ -527,7 +527,7 @@ class ExpPose(BaseModel):
 
 if __name__ == '__main__':
     import os
-
+    
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
     model = ExpPoseModel()
