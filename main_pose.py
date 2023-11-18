@@ -348,5 +348,6 @@ if __name__ == '__main__':
                            comment=config['experiment_name'])
 
     main(config, logger)
-
+    
     logger.close()
+    
